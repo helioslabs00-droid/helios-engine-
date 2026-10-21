@@ -1,0 +1,6 @@
+{
+  "name": "Helios · Decision Intelligence Engine",
+  "description": "Multi-agent Decision Intelligence Engine for real-time edge analysis, latent reasoning pathways, and consensus moderation built for sentur.org.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
